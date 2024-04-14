@@ -1,6 +1,6 @@
 import { Avatar, Box, Button, Stack, Typography } from "@mui/material";
 import React from "react";
-import avatarImg from "../images/avatar-jessica.jpeg";
+import avatarImg from "../images/tadteck.jpg";
 import { PhotoSizeSelectActual } from "@mui/icons-material";
 
 const Card = () => {
@@ -24,11 +24,11 @@ const Card = () => {
           fontWeight: 600,
         }}
       >
-        Jessica Randall
+        Tadiwanashe Chipolopolo
       </Typography>
 
       <Typography sx={{ color: "hsl(75, 94%, 57%)", fontSize: "0.9rem" }}>
-        London, United Kingdom
+        Harare, Zimbabwe
       </Typography>
 
       <Typography
