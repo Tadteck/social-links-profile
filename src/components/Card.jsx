@@ -43,7 +43,7 @@ const Card = () => {
           { name: "Frontend Mentor", link: "https://www.frontendmentor.io/profile/Tadteck" },
           { name: "LinkedIn", link: "https://www.linkedin.com/in/tadiwanashe-chipolopolo-9a4190304/" },
           { name: "Twitter", link: "" },
-          { name: "Instagram", link: "" },
+          { name: "Instagram", link: "www..." },
         ].map((item, index) => (
           <Button
             onClick={() => {
